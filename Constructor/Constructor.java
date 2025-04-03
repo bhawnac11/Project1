@@ -3,7 +3,7 @@ class Constructor{
 // declared instance variables.
 
 String name;
-int age;
+int age2;
 
 public static void main(String[]args){
 
