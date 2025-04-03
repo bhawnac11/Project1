@@ -1,12 +1,12 @@
 class Const{
 String name;
-int age;
+int age1
 
 
 public Const(String name, int age){
 
 this.name = name;
-this.age = age;
+this.age = age1;
 
 }
 
