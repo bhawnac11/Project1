@@ -14,7 +14,7 @@ System.out.println(c1.name);
    }
 
 
-public Constructor(String name,int age){
+Constructor(String name,int age){
 
 this.name=name;
 this.age=age;
